@@ -5,4 +5,4 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 xinghehy/netease-musician-task:latest
-raywangqvq/bili_tool_web:latest
+ghcr.io/raywangqvq/bili_tool_web
